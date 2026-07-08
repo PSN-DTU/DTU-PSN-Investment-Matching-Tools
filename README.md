@@ -18,3 +18,4 @@ Instructions for using the tool
    a) The matches will output as a .csv file with four columns: Portfolio Company, Matched Subsidiary, Parent Company, Match Score
    b) The next steps are manual. Match score indicates how good the string matching is between "Portfolio Company" and either "Matched Subsidiary" or "Parent          Company". Results less than 0.8 are omitted. Generally results below 0.9 are not a match but this must be determined manually.
    c) If one determines that the "Portfolio Company" and "Matched Subsidiary" or "Parent Company" are a match, the investment amount must me manually extracted        from the original investment portfolio. Recommended to use Ctrl+F to find the investment as there are often multiple investments in the same firms.
+10) Add the matched company along with the amount and asset manager to the tab related to the relevant month in the Investment Template worksheet. The Summary page will autofill as data is entered.  
